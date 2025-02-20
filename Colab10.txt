@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 10 – Списки
+https://colab.research.google.com/drive/1o2SlpZ9XxvIN7njM6FLpvnfjVKie8fg_?usp=sharing
