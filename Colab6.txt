@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 6 – Строки и индексы
+https://colab.research.google.com/drive/1jWsdvIMzG5D2Nq-1zL3CfoTU54Xd9G8R?usp=sharing

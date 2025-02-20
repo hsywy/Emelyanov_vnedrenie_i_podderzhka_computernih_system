@@ -1,0 +1,2 @@
+Выполнил: Емельянов Иван ИС223 Задание 1 – Hello Python
+https://colab.research.google.com/drive/1ln3W_YkaT- O0BxBA74pQ1cA31HKt6IeB?usp=sharing

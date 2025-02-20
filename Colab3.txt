@@ -1,0 +1,2 @@
+Выполнил: Емельянов Иван, ИС223 Задание 3 – Циклы
+https://colab.research.google.com/drive/1UPV0AiZfaE4PF9droqZCiHKlJFKGvFbb#scrollTo=858d6bb4

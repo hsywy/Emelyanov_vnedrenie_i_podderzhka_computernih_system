@@ -1,0 +1,2 @@
+Выполнил: Емельянов Иван ИС223 Задание 4 – Вложенные циклы:
+https://colab.research.google.com/drive/1DyxYoGxaNzBfnt8NKVxcHZriMHSybNEt?usp=sharing

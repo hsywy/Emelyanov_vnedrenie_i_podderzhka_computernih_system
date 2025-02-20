@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 7 – Строки срезы
+https://colab.research.google.com/drive/17m8Htj-I0s1EVoV2hiH4ruvaenylsv1h?usp=sharing
