@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 11 – Кортежи
+https://colab.research.google.com/drive/1B_NRfuMOHwIrIDS2daeCtmcRa33Y2ivN?usp=sharing
