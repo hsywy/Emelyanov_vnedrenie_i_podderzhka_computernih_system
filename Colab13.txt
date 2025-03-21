@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 13 - методы списков и строк
+https://colab.research.google.com/drive/15CEPlVJsIzQBprWtxdJKeyPcR648vatK?usp=sharing
