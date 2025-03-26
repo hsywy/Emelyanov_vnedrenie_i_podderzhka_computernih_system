@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 14 – Вложенные списки
+https://colab.research.google.com/drive/1BcXibp6mf8DVE4qo5Ua6Zl7bhiNoDu9j?usp=sharing
