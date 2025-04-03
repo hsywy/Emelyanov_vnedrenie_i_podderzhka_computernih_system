@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 16 – Функции, основы
+https://colab.research.google.com/drive/1GEULHd5H3nPiPg91xK1Rp1_N24JgJqfj?usp=sharing
