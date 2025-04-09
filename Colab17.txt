@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 17 – Функции возврата значений
+https://colab.research.google.com/drive/1T1aC_XHiFl7yvou5e4ukCE4AUsPGXmy5?usp=sharing
