@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 19 – Функции передачи параметров
+https://colab.research.google.com/drive/1lRWvxOyXujRy4G-td7EmgeQqtEl1gnZo?usp=sharing
