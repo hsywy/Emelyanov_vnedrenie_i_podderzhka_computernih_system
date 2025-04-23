@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 18 – Области видимоси переменных
+https://colab.research.google.com/drive/1UaorDOfaEU7eXHvBwAweOi2CYC3IlENE?usp=sharing
