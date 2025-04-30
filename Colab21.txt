@@ -1,0 +1,4 @@
+Выполнил: Емельянов Иван ИС223
+Задание 21 - Функции как объект. Лямбда-функции
+https://colab.research.google.com/drive/1hfzvxEQZrl2a_APNtLEPBZGZfns53WsI?usp=sharing
+

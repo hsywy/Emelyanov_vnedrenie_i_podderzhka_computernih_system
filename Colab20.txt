@@ -1,0 +1,3 @@
+Выполнил: Емельянов Иван ИС223
+Задание 20 - Функции с переменным числом аргументов
+https://colab.research.google.com/drive/1FzP3-1wG1684NXxZIYbPBOJynprw6VWD?usp=sharing
